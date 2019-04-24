@@ -1,0 +1,7 @@
+Node version : v10.15.3
+
+Angular: 7.2.13
+
+
+Visual Studion : Version 1.20.0
+
